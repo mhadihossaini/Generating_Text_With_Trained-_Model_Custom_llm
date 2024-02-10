@@ -1,0 +1,7 @@
+nltk==3.6.3
+PyPDF2==1.26.0
+tensorflow==2.5.0
+requests==2.26.0
+numpy==1.19.5
+beautifulsoup4==4.10.0
+
